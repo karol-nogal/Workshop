@@ -1,6 +1,7 @@
 # Pixel Kit
 
-This repository is my game-making workshop playground. You won't find any popular framework stuff inside. Only vanilla JS and some basic canvas manipulation. It's all've been done by group effort by all the people present on this workshop/course.
+This repository shows the workshop "Create your own Pixe Dungeon Game " by InfoshaAcademy crew , and the group progress . 
+It was created only in vanilla JavaScript and canvas manipulations . 
 
 All the graphics and audio files in `assets` directory come from the awesome [watabou/pixel-dungeon](https://github.com/watabou/pixel-dungeon). I included the original license there.
 
